@@ -5,6 +5,7 @@ Scraping offers from multi websites into one easy-readable report + IT hiring tr
 
 
 For early casual use:
+
 0. Download files into 1 folder. Add Beautifull Soap into the folder (fg. https://github.com/waylan/beautifulsoup )
 1. Edit words(ones in "") in "my_words" file (ones to gather, for analytics and to look for) [whole file]
 2. Edit words in "Report_gen" file (ones you look for) [lines 20-64]
