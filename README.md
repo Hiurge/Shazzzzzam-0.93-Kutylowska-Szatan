@@ -20,7 +20,7 @@ Future:
 1. Deploy on server -> automatic reports every month/week
 2. Deploy on website (?) with some sexy frontend maybe? maybe.
 3. Bug fixes, code tidying (???)
-4. Trend Analytics with sexy plots (2018.01-02)
+4. Trend Analytics with sexy plots
 5. Natural Language processing.
 
 Cheers!
