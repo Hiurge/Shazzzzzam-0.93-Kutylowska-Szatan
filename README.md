@@ -1,5 +1,4 @@
-# Shazzzzzam-0.93-Kutylowska-Szatan
-In the name of my early math teachers. 
+# Shazzzzzam
 
 Scraping offers from multi websites into one easy-readable report + IT hiring trends analytics.
 
@@ -16,11 +15,11 @@ HF
 
 This is early version for self use only, so all feedback is wellcome.
 
-Future:
+Future (maybe):
 1. Deploy on server -> automatic reports every month/week
 2. Deploy on website (?) with some sexy frontend maybe? maybe.
 3. Bug fixes, code tidying (???)
 4. Trend Analytics with sexy plots
 5. Natural Language processing.
 
-Cheers!
+Special thanks to Kutylowska and Szatan (my early math teachers) for being cool xD
