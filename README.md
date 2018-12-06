@@ -1,7 +1,6 @@
 # Shazzzzzam
 
-Scraping offers from multi websites into one easy-readable report + IT hiring trends analytics.
-
+Scraping offers from multi websites into one easy-readable report + IT skill, market trends analytics.
 
 For early casual use:
 
